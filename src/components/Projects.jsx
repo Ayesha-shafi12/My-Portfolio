@@ -23,8 +23,8 @@ const projects = [
     demo: "https://fullstack-chat-app-emu4.vercel.app",
   },
   {
-    name: "BlogForge",
-    title: "BlogForge — Blog Platform",
+    name: "movie-search-app",
+    title: "movie-search-app",
     desc: "A clean, CMS-powered blog with Markdown rendering, dark mode, category filtering, and a custom WordPress REST API backend.",
     tags: [
       "React",
@@ -35,19 +35,19 @@ const projects = [
     ],
     bg: "linear-gradient(135deg, #1a0f0f 0%, #3a1515 100%)",
     dot: "#f87171",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/Ayesha-shafi12/Movie-Search-App",
+    demo: "https://movie-search-app-blond-eight.vercel.app/",
   },
-  {
-    name: "DevFolio",
-    title: "Doctor Appointment Booking System",
-    desc: "A comprehensive doctor appointment booking system built with Vite, React, Tailwind CSS v4, and Framer Motion. Zero templates, zero shortcuts.",
-    tags: ["React", "Vite", "Tailwind CSS v4"],
-    bg: "linear-gradient(135deg, #0e1a1f 0%, #0c2d3a 100%)",
-    dot: "#60a5fa",
-    github: "https://github.com/Ayesha-shafi12/Doctor-Appointment-Website-",
-    demo: "#",
-  },
+  // {
+  //   name: "DevFolio",
+  //   title: "Doctor Appointment Booking System",
+  //   desc: "A comprehensive doctor appointment booking system built with Vite, React, Tailwind CSS v4, and Framer Motion. Zero templates, zero shortcuts.",
+  //   tags: ["React", "Vite", "Tailwind CSS v4"],
+  //   bg: "linear-gradient(135deg, #0e1a1f 0%, #0c2d3a 100%)",
+  //   dot: "#60a5fa",
+  //   github: "https://github.com/Ayesha-shafi12/Doctor-Appointment-Website-",
+  //   demo: "#",
+  // },
 ];
 
 const container = {
