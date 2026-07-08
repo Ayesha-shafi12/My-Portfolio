@@ -3,7 +3,7 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    name: "ShopEase",
+    name: "Ecommerce Website",
     title: "Ecommerce Website",
     desc: "A modern E-commerce Website frontend built using React.js that provides a smooth and responsive shopping experience",
     tags: ["React", "Tailwind CSS", "JavaScript", "LocalStorage"],
@@ -13,7 +13,7 @@ const projects = [
     demo: "https://ecommerce-website-theta-beige.vercel.app/",
   },
   {
-    name: "TaskFlow",
+    name: "FullStack Chat-Application",
     title: "FullStack Chat-Application",
     desc: "A real time chat application with a full-stack architecture, featuring instant messaging, user authentication, and a sleek UI.",
     tags: ["React", "Tailwind CSS", "Node.js", "Socket.IO", "MongoDB"],
