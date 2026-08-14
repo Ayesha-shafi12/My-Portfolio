@@ -3,7 +3,7 @@ import { ArrowRight, Github, Linkedin, Sparkles } from "lucide-react";
 
 const stats = [
   { value: "1+", label: "Years Experience" },
-  { value: "3+", label: "Projects Built" },
+  { value: "4+", label: "Projects Built" },
 ];
 
 // Adjust these percentages to whatever reflects your actual skill level
@@ -492,7 +492,7 @@ export default function Hero() {
                   <div
                     style={{ fontSize: 20, fontWeight: 700, color: "#f4f4f5" }}
                   >
-                    3+
+                    4+
                   </div>
                   <div
                     style={{

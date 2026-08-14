@@ -13,6 +13,17 @@ const projects = [
     demo: "https://ecommerce-website-theta-beige.vercel.app/",
   },
   {
+    name: "Sec-ai-tech",
+    title: "Sec-ai-tech",
+    desc: "The website showcases SecAITech's products, services, case studies, and production-ready software solutions, including its Hospital Management System used at Khawaja Hospital.",
+    tags: ["React", "Tailwind CSS", "JavaScript", "LocalStorage"],
+    bg: "linear-gradient(135deg, #1c1c2e 0%, #2d1b4e 100%)",
+    dot: "#a78bfa",
+    github: "https://github.com/Ayesha-shafi12/SecAiTech-website",
+    demo: "https://sec-ai-tech-website-rhhd.vercel.app/",
+  },
+
+  {
     name: "FullStack Chat-Application",
     title: "FullStack Chat-Application",
     desc: "A real time chat application with a full-stack architecture, featuring instant messaging, user authentication, and a sleek UI.",
